@@ -38,8 +38,8 @@ pip install fastapi uvicorn
 ## Cách chạy ứng dụng
 
 1. Chạy server FastAPI:
-uvicorn Baithicuoikhoa:app --reload
-Note: Baithicuoikhoa là tên file Python chứa mã nguồn API (bỏ đuôi .py); app là tên biến FastAPI trong file.
+uvicorn Finaltask_PT103:app --reload
+Note: Finaltask_PT103 là tên file Python chứa mã nguồn API (bỏ đuôi .py); app là tên biến FastAPI trong file.
 
 2.Truy cập tài liệu API (Swagger UI):
 Mở trình duyệt và vào địa chỉ: http://127.0.0.1:8000/docs
